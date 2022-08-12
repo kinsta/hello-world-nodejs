@@ -26,3 +26,5 @@ When deploying an application Kinsta will automatically create a web process wit
   },
 ```
 
+## Deployment Lifecycle
+Whenever a deployment is initiated (through creating an application or re-deploying due to an incoming commit) the `npm build` command is run, followed by the `npm start` command.  
