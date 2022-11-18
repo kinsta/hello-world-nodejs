@@ -1,3 +1,5 @@
+![Photo by Kai Oberhäuser on Unsplash](https://user-images.githubusercontent.com/2342458/202705788-d221f036-ce6b-45eb-b64e-d9f308d9b406.png)
+
 # Kinsta - Hello World - Node.js
 An example of how to set your Node.js application up to enable deployment on Kinsta App Hosting services.
 
