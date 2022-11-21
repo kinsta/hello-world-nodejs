@@ -1,7 +1,16 @@
+![Photo by Kai Oberhäuser on Unsplash](https://user-images.githubusercontent.com/2342458/202705788-d221f036-ce6b-45eb-b64e-d9f308d9b406.png)
+
 # Kinsta - Hello World - Node.js
 An example of how to set your Node.js application up to enable deployment on Kinsta App Hosting services.
 
-> Kinsta’s Application Hosting is a service to run your web apps and any databases side by side in a hassle-free environment, tailored for developer needs and ease of use. App Hosting is currently in an invite-only beta phase, sign up for a test account at [kinsta.com/application-hosting](https://kinsta.com/application-hosting/).
+---
+Kinsta is a developer-centric cloud host / PaaS. We’re striving to make it easier for you to share your web projects with your users. Focus on coding and building, and we’ll take care of deployment and provide fast, scalable hosting. + 24/7 expert-only support.
+
+Get started for free, the first $20 is on us!
+
+[Application Hosting](https://kinsta.com/application-hosting)
+
+[Database Hosting](https://kinsta.com/database-hosting)
 
 ## Dependency Management
 During the deployment process Kinsta will automatically install dependencies defined in your `package.json` file.
