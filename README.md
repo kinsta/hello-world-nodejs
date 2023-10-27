@@ -34,10 +34,10 @@ When deploying an application Kinsta will automatically create a web process wit
 ```
 
 ## Deployment Lifecycle
-Whenever a deployment is initiated (through creating an application or re-deploying due to an incoming commit) the `npm build` command is run, followed by the `npm start` command.  
+Whenever a deployment is initiated (through creating an application or re-deploying due to an incoming commit), the `npm build` command is run, followed by the `npm start` command.  
 
 ## What is Node.JS
-Node.js is a runtime environment that allows developers to execute JavaScript code outside of a web browser, enabling server-side scripting and building scalable network applications. It utilizes an event-driven, non-blocking I/O model, making it efficient for handling concurrent requests and real-time applications.. Learn more on [nodejs.org](https://nodejs.org).
+Node.js is a runtime environment that allows developers to execute JavaScript code outside of a web browser, enabling server-side scripting and building scalable network applications. It utilizes an event-driven, non-blocking I/O model, making it efficient for handling concurrent requests and real-time applications. Learn more on [nodejs.org](https://nodejs.org).
 
 ## Watch How to Set Up a Node.JS Application on Kinsta
 [![Watch the video](https://img.youtube.com/vi/JBbyMn7dNys/maxresdefault.jpg)](https://www.youtube.com/watch?v=JBbyMn7dNys)
